@@ -1,0 +1,7 @@
+services\QuestionService.class
+pojo\Question.class
+com\mycompany\testjdbcconnect\TestJDBCConnect.class
+services\TestService.class
+pojo\Choice.class
+services\CategoryService.class
+com\mycompany\testjdbcconnect\JDBCConnection.class
